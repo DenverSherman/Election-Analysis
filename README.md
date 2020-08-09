@@ -9,7 +9,7 @@ In running the program on Election_Results.csv as provided by the election commi
 * Denver county had the highest voter turnout by vote count.
 * Breakdown of votes by county and percentage of vote by county are presented below:
 ![Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Voter_Breakdown.png)
-![Total Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Voter_Breakdown.png)
+![Total Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Vote_Breakdown.png)
 * A breakdown of votes and vote percentage won by each candidate is presented above.
 * Diana DeGette is the winner of this election with 272,892 votes representing 74% of ballots cast.
 
