@@ -19,7 +19,5 @@ with open(load1,"r") as election_results:
     # Print header row
     headers = next(file_reader)
     print(headers)
-
-
     
 election_results.close
