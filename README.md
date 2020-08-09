@@ -14,6 +14,7 @@ In running the program on Election_Results.csv as provided by the election commi
 <p align="center">
   <img width="650" height="300" src="https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Vote_Breakdown.png">
 </p>
+
 * A breakdown of votes and vote percentage won by each candidate is presented above.
 * Diana DeGette is the winner of this election with 272,892 votes representing 74% of ballots cast.
 
