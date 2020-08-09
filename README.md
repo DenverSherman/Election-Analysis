@@ -6,9 +6,10 @@ This Python program is intended to facilitate vote tallying at scale. Excel is u
 ### Election-Audit Results
 In running the program on Election_Results.csv as provided by the election commission, we've determined the following:
 * A total of 369,711 votes were cast in the election.
-* Denver county had the highest voter turnout by vote count. Breakdown of votes by county and percentage of vote by county are presented below:
+* Denver county had the highest voter turnout by vote count.
+* Breakdown of votes by county and percentage of vote by county are presented below:
 ![Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Voter_Breakdown.png)
-![Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Voter_Breakdown.png)
+![Total Outcome Breakdown](https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Voter_Breakdown.png)
 * A breakdown of votes and vote percentage won by each candidate is presented above.
 * Diana DeGette is the winner of this election with 272,892 votes representing 74% of ballots cast.
 
