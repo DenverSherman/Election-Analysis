@@ -9,7 +9,7 @@ In running the program on Election_Results.csv as provided by the election commi
 * Denver county had the highest voter turnout by vote count.
 * Breakdown of votes by county and percentage of vote by county are presented below:
 <p align="center">
-  <img width="650" height="300" src="https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Voter_Breakdown.png">
+  <img width="800" height="300" src="https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Voter_Breakdown.png">
 </p>
 <p align="center">
   <img width="650" height="300" src="https://github.com/DenverSherman/Election-Analysis/blob/master/resources/Total_Vote_Breakdown.png">
