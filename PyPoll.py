@@ -21,9 +21,10 @@ winning_percentage = 0
 load1 = os.path.join("resources", "election_results.csv")
 save1 = os.path.join("analysis", "election_analysis.txt")
 outfile1 = open(save1, "w")
+bar = "----------------------------\n"
 election_results_header = (
-    f"Elections Results Summary\n"
-    f"----------------------------\n")
+    f"Elections Results\n"
+    f"{bar}")
 
 print(election_results_header)
 outfile1.write(election_results_header)
@@ -72,11 +73,11 @@ for candidate_name in candidate_votes:
         winning_count = votes
 
 winning_candidate_summary = (
-    f"----------------------------\n"
+    f"{bar}"
     f"Winner: {winning_candidate}\n"
     f"Winning Vote Count: {winning_count}\n"
     f"Winning Percentage: {winning_percentage:.1f}%\n"
-    f"----------------------------\n")
+    f"{bar}")
 
 print(winning_candidate_summary)
 outfile1.write(winning_candidate_summary)
