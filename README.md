@@ -1,5 +1,6 @@
 # Election-Analysis
 Python project for tallying election results
+
 ### Background
 This Python program is intended to facilitate vote tallying at scale. Excel is unfit for this job as the row count exceeds 360K. Our program tallies all votes by county and candidate, then determines the winner. Then printed into a text file, the Election-Analysis progam is easy to read, easy to use, and 100% reproduceable.
 
@@ -17,7 +18,7 @@ In running the program on Election_Results.csv as provided by the election commi
 
 * A breakdown of votes and vote percentage won by each candidate is presented above.
 
-* Diana DeGette is the winner of this election with 272,892 votes representing 74% of ballots cast.
+* **Diana DeGette** is the winner of this election with **272,892 votes representing 74% of ballots cast.**
 
 ### Election-Audit Summary
 The PyPoll_Challenge.py program is neither limited to the scope nor scale of this project. It is equipped to handle another dataset of the same form. Should the shape of the new dataset be different than Election_Results.csv, changes are required. Namely, the column indexing within the candidate_name and county_name requires update.
